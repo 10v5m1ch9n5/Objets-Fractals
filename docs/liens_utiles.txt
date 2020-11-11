@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/6045384/playing-mp3-and-wav-in-java
+https://stackoverflow.com/questions/14025718/javafx-toolkit-not-initialized-when-trying-to-play-an-mp3-file-through-mediap
+https://stackoverflow.com/questions/18249592/how-to-change-font-size-in-drawstring-java
+https://stackoverflow.com/questions/27706197/how-can-i-center-graphics-drawstring-in-java
+https://www.dummies.com/programming/java/and-operators-and-in-java/
+https://stackoverflow.com/questions/1439022/get-mouse-position

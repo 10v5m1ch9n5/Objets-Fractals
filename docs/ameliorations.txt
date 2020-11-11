@@ -1,0 +1,6 @@
+- gestion d'erreurs
+- animation (zoom et rotation Julia)
+- IA pour estimer le temps de calcul
+- suites d'ordre N
+- choix des modes de colorisation
+- ajouter soleil et déshumaniser écran titre + visage jcvd + réfléchir au scintillement
